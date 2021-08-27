@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/eddce/OneDrive/PROJETOS/Calculadora_Mobile/calculadora-mobile/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/eddce/OneDrive/PROJETOS/Calculadora_Mobile/calculadora/app/src/main/res/drawable/botao_numero_clicado.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/eddce/OneDrive/PROJETOS/Calculadora_Mobile/calculadora/app/src/main/res/drawable/shape_numero_normal.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/eddce/OneDrive/PROJETOS/Calculadora_Mobile/calculadora/app/src/main/res/drawable/shape_numero_selecionado.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/eddce/OneDrive/PROJETOS/Calculadora_Mobile/calculadora/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>

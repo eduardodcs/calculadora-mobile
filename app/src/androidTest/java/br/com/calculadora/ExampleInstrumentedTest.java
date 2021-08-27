@@ -1,4 +1,4 @@
-package br.com.eduardo;
+package br.com.calculadora;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("br.com.eduardo", appContext.getPackageName());
+        assertEquals("br.com.calculadora", appContext.getPackageName());
     }
 }

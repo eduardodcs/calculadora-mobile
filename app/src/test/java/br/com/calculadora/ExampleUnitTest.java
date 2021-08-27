@@ -1,4 +1,4 @@
-package br.com.eduardo;
+package br.com.calculadora;
 
 import org.junit.Test;
 
