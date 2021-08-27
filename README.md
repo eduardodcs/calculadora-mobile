@@ -14,4 +14,4 @@ Para rodar a aplicação é necessário:
 
 
 
-![image-20210826232715829](C:\Users\eddce\AppData\Roaming\Typora\typora-user-images\image-20210826232715829.png)
+![image-20210826232715829](https://github.com/eduardodcs/calculadora-mobile/blob/main/img/image-20210826232715829.png?raw=true)
